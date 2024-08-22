@@ -1,0 +1,25 @@
+.Container {
+  background-color: #353535;
+  padding: 42px 70px;
+  border-radius: 0 0 130px 50px;
+  margin-bottom: 20px;
+}
+
+.TextContainer {
+  margin-top: 20px;
+  display: flex;
+  gap: 18px;
+}
+
+.TextSubContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.Text {
+  color: #f6f6f6;
+}
+
+.Bold {
+  font-weight: 700;
+}

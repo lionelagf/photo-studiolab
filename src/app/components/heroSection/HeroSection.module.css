@@ -1,0 +1,44 @@
+.heroSection {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding: 80px 0 150px 70px;
+  background-color: #121212;
+  background-image: url('../../assets/background/hero-section-photo-studiolab.webp');
+  border-radius: 50px 50px 0 0;
+}
+
+.title {
+  margin-top: 50px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.texteContainer {
+  max-width: 520px;
+}
+
+.texte {
+  margin-top: 10px;
+
+}
+
+.google {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-width: 96px;
+}
+
+.googleNote {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  height: 26px;
+  margin: 10px 0 8px 0;
+}
+
+.googleNoteNumber {
+  font-size: 24px;
+}

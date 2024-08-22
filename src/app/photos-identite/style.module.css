@@ -1,0 +1,7 @@
+.Section {
+  background-color: #f8f8f7;
+  padding: 42px 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}

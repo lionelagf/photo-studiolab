@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.HeroSection {
+  height: 100%;
+  background-color: #353535;
+  padding: 42px 70px;
+  border-radius: 50px 50px 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Title {
+  font-size: 50px;
+  text-transform: uppercase;
+  font-family: 'Bebas Neue', sans-serif;
+  color: #f6f6f6;
+}

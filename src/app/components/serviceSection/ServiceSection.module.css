@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.ServiceSection {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #353535;
+  padding: 42px 73px;
+}
+
+.ServiceTitle {
+  text-transform: uppercase;
+  font-size: 48px;
+  font-family: 'Bebas Neue', sans-serif;
+  color: #f6f6f6;
+  margin-bottom: 15px;
+}
+
+.ServiceSectionContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.HomeService {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #404040;
+  margin-top: 30px;
+  border-radius: 15px 15px 50px 15px;
+}
+
+.HomeServiceContainer {
+  height: 80px;
+  width: 400px;
+  background-color: #515151;
+  border-radius: 15px 15px 40px 15px;
+  padding: 12px 0 0 13px;
+}
+
+.Title {
+  font-weight: 800;
+  font-size: 18px;
+  color: white;
+  margin: 0;
+}
+
+.Price {
+  font-weight: 800;
+  font-size: 30px;
+  color: white;
+  position: relative;
+  bottom: 10px;
+}
+
+.HomeServiceFa {
+  color: #f6f6f6;
+  gap: 30px;
+  display: flex;
+}
+
+.ButtonInfo {
+  cursor: pointer;
+  border-radius: 7px 7px 20px 7px;
+  border: 3px solid #f6f6f6;
+  color: #f6f6f6;
+  font-size: 18px;
+  margin-right: 23px;
+  padding: 7px 11px;
+  font-weight: 600;
+  transition: transform 0.2s ease-in-out;
+}
+
+.ButtonInfo:hover {
+ transform: scale(1.1);
+}

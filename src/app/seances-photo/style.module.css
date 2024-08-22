@@ -1,0 +1,16 @@
+.Section {
+  background-color: #f8f8f7;
+  padding: 42px 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
+
+.Category {
+  color: #f6f6f6;
+  font-family: 'Bebas Neue';
+  font-size: 40px;
+  background-color: #515151;
+  border-radius: 10px 10px 35px 10px;
+  padding-left: 20px;
+}

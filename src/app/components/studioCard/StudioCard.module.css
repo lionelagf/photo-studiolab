@@ -1,0 +1,56 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.img {
+  border-radius: 20px 20px 50px 20px;
+}
+
+.infoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* min-width: 550px; */
+}
+
+.infoTitle {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.infoSubtitle {
+  margin: -10px 0;
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.infoSide {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+
+}
+
+.infoSideTitle {
+  font-weight: 600;
+}
+
+.list {
+  list-style: inside;
+  list-style-type: '.';
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.specContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
