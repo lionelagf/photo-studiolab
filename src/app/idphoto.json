@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "title": "Carte nationale d’identité - Nourrisson",
+    "price": "15€00",
+    "cover": "/assets/img/photo-studiolab-id-nourrisson.webp",
+    "specs": [
+      "Taille 3,5x4,5cm",
+      "Fond gris clair",
+      "Planche de 6 photos",
+      "Valable 6 mois"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Carte nationale d’identité - Adulte",
+    "price": "9€00",
+    "cover": "/assets/img/photo-studiolab-id-prefecture.webp",
+    "specs": [
+      "Taille 3,5x4,5cm",
+      "Fond gris clair",
+      "Planche de 6 photos",
+      "Valable 6 mois"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "ANTS - E-photo",
+    "price": "15€00",
+    "cover": "/assets/img/photo-studiolab-id-ants.webp",
+    "specs": [
+      "Taille 3,5x4,5cm",
+      "Fond gris clair",
+      "Planche de 4 photos",
+      "Code identifiant e-photo"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "CV - Linkedin",
+    "price": "20€00",
+    "cover": "/assets/img/photo-studiolab-id-cv.webp",
+    "specs": [
+      "1 Photo numérique HD",
+      "Déclinaison Linkedin",
+      "Fond clair",
+      "Accompagnement et conseils"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Visa Etat Unis - Inde - Israël",
+    "price": "15€00",
+    "cover": "/assets/img/photo-studiolab-id-usa-inde.webp",
+    "specs": [
+      "Taille 5x5cm",
+      "Fond blanc",
+      "Planche de 4 photos",
+      "Valable 6 mois"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Passeport canada",
+    "price": "15€00",
+    "cover": "/assets/img/photo-studiolab-id-canada.webp",
+    "specs": [
+      "Taille 5x7cm",
+      "Fond blanc",
+      "Planche de 3 photos",
+      "Tampon et signature"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Visa chinois",
+    "price": "15€00",
+    "cover": "/assets/img/photo-studiolab-id-chine.webp",
+    "specs": [
+      "Taille 3,3x4,8cm",
+      "Fond blanc",
+      "Planche de 6 photos",
+      "Valable 6 mois"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Scolaire",
+    "price": "10€00",
+    "cover": "/assets/img/photo-studiolab-id-ecole.webp",
+    "specs": ["Taille 3,5x4,5cm", "Fond clair", "Planche de 6 photos"]
+  },
+  {
+    "id": "9",
+    "title": "Sur mesure",
+    "price": "15€00",
+    "cover": "/assets/img/photo-studiolab-id-sur-mesure.webp",
+    "specs": ["Taille sur mesure", "Fond sur mesure", "Planche sur mesure"]
+  }
+]

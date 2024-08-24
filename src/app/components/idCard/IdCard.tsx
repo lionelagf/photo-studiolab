@@ -2,11 +2,11 @@ import styles from './IdCard.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
 
-export default function IdCard({ src, title, price, spec }: any) {
+export default function IdCard({ cover, title, price, spec }: any) {
   return (
     <div className={styles.card}>
       <Image
-        src={src} // Chemin de l'image
+        src={cover} // Chemin de l'image
         width={350} // Largeur de l'image
         height={223} // Hauteur de l'image
         alt='Logo du studio Photo StudioLab' // Texte alternatif pour l'image

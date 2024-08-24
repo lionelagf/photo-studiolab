@@ -14,6 +14,9 @@ export default function Header() {
       <nav className={`md:flex ${nav ? 'hidden' : 'flex'}`}>
         <ul className='hidden md:flex gap-7'>
           <li className={styles.navPrimary}>
+            <Link href='/'>Accueil</Link>
+          </li>
+          <li className={styles.navPrimary}>
             <Link href='/photos-identite'>Photos d&apos;identité</Link>
           </li>
           <li className={styles.navPrimary}>
@@ -29,8 +32,8 @@ export default function Header() {
       </nav>
       <nav>
         <ul className='hiden md:flex gap-7'>
-          <li className={styles.navSecondary}>Rendez-vous</li>
-          <li className={styles.navSecondary}>Devis</li>
+          <li className={styles.navSecondary}>Rendez-vous / Devis</li>
+          {/* <li className={styles.navSecondary}>Devis</li> */}
         </ul>
       </nav>
       <div

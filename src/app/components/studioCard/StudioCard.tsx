@@ -2,11 +2,11 @@ import Image from "next/image"
 import styles from './StudioCard.module.css'
 import Link from "next/link"
 
-export default function StudioCard({ src, title, price, text, spec }:any) {
+export default function StudioCard({ cover, title, price, description, spec }:any) {
     return (
       <div className={styles.card}>
         <Image
-          src={src}
+          src={cover}
           width={500}
           height={334}
           alt='Logo du studio Photo StudioLab'
@@ -18,7 +18,7 @@ export default function StudioCard({ src, title, price, text, spec }:any) {
             <h3 className={styles.infoSubtitle}>{price}</h3>
           </div>
           <div>
-            <p>{text}</p>
+            <p>{description}</p>
           </div>
           <div className={styles.infoSide}>
             <div className={styles.specContainer}>
