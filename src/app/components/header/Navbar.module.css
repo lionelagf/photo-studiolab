@@ -17,13 +17,13 @@
   font-weight: 600; /* font-medium */
   color: #0d1b2a; /* text-black */
   line-height: 70px;
-  transition: transform 0.2s, font-weight 0.2s; /* duration-200 */
+  transition: transform 0.2s, font-weight 0.2s ease-in-out; 
 
 }
 
 .navPrimary:hover {
   transform: scale(1.1);
-  /* font-weight: 900; */
+
   text-decoration: solid underline #0d1b2a 2px;
   text-underline-offset: 10px;
 }

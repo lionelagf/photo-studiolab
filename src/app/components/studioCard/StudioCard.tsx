@@ -1,6 +1,7 @@
 import Image from "next/image"
 import styles from './StudioCard.module.css'
 import Link from "next/link"
+import ImageGallery from "../imageGallery/ImageGallery"
 
 export default function StudioCard({ cover, title, price, description, spec }:any) {
     return (
@@ -29,7 +30,9 @@ export default function StudioCard({ cover, title, price, description, spec }:an
               <button className='Button'>
                 <Link href='/'>Galerie</Link>
               </button>
+              <ImageGallery />
               <button className='Button'>
+                
                 <Link href='/'>Informations supplémentaires</Link>
               </button>
             </div>
