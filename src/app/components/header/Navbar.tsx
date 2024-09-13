@@ -26,7 +26,7 @@ export default function Header() {
             <Link href='/retouches-photo'>Retouches photo</Link>
           </li>
           <li className={styles.navPrimary}>
-            <Link href='/impression-photo'>Impressions photo</Link>
+            <Link href='/impression-photo'>Impressions et encadrements</Link>
           </li>
         </ul>
       </nav>

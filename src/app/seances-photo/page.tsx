@@ -29,6 +29,8 @@ export default function SeancesPhoto({ category }:any) {
               spec={photoshoot.specs.map((spec, index) => (
                 <li key={index}>{spec}</li>
               ))}
+              advice={photoshoot.advice}
+              option={photoshoot.option}
             />
           </div>
         ))}
@@ -44,6 +46,8 @@ export default function SeancesPhoto({ category }:any) {
               spec={photoshoot.specs.map((spec, index) => (
                 <li key={index}>{spec}</li>
               ))}
+              advice={photoshoot.advice}
+              option={photoshoot.option}
             />
           </div>
         ))}

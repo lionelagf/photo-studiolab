@@ -9,6 +9,15 @@
       "Fond gris clair",
       "Planche de 6 photos",
       "Valable 6 mois"
+    ],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": [
+      "Planche supplémentaire : 5€00",
+      "Fichier numérique : 2€00"
     ]
   },
   {
@@ -21,7 +30,13 @@
       "Fond gris clair",
       "Planche de 6 photos",
       "Valable 6 mois"
-    ]
+    ],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": ["Planche supplémentaire : 5€00", "Fichier numérique : 2€00"]
   },
   {
     "id": "3",
@@ -33,7 +48,13 @@
       "Fond gris clair",
       "Planche de 4 photos",
       "Code identifiant e-photo"
-    ]
+    ],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": ["Planche supplémentaire : 5€00", "Fichier numérique : 2€00"]
   },
   {
     "id": "4",
@@ -45,7 +66,13 @@
       "Déclinaison Linkedin",
       "Fond clair",
       "Accompagnement et conseils"
-    ]
+    ],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": ["Planche supplémentaire : 5€00", "Fichier numérique : 2€00"]
   },
   {
     "id": "5",
@@ -57,7 +84,13 @@
       "Fond blanc",
       "Planche de 4 photos",
       "Valable 6 mois"
-    ]
+    ],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": ["Planche supplémentaire : 5€00", "Fichier numérique : 2€00"]
   },
   {
     "id": "6",
@@ -81,20 +114,38 @@
       "Fond blanc",
       "Planche de 6 photos",
       "Valable 6 mois"
-    ]
+    ],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": ["Planche supplémentaire : 5€00", "Fichier numérique : 2€00"]
   },
   {
     "id": "8",
     "title": "Scolaire",
     "price": "10€00",
     "cover": "/assets/img/photo-studiolab-id-ecole.webp",
-    "specs": ["Taille 3,5x4,5cm", "Fond clair", "Planche de 6 photos"]
+    "specs": ["Taille 3,5x4,5cm", "Fond clair", "Planche de 6 photos"],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": ["Planche supplémentaire : 5€00", "Fichier numérique : 2€00"]
   },
   {
     "id": "9",
     "title": "Sur mesure",
     "price": "15€00",
     "cover": "/assets/img/photo-studiolab-id-sur-mesure.webp",
-    "specs": ["Taille sur mesure", "Fond sur mesure", "Planche sur mesure"]
+    "specs": ["Taille sur mesure", "Fond sur mesure", "Planche sur mesure"],
+    "advice": [
+      "Cou dégagé (petit body en dessous de ses vêtements par exemple).",
+      "Ne pas lui donner à manger juste avant de venir pour éviter le gros dodo.",
+      "Prévoir une tétine ou un biberon au cas où, afin de calmer l’enfant si besoins."
+    ],
+    "option": ["Planche supplémentaire : 5€00", "Fichier numérique : 2€00"]
   }
 ]

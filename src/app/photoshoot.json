@@ -6,14 +6,23 @@
     "price": "30€00",
     "cover": "/assets/img/photo-studiolab-express.webp",
     "picture": [
-    "/assets/img/seance-express-famille.webp",
-    "/assets/img/seance-express-famille-2.webp",
-    "/assets/img/seance-express-famille-3.webp",
-"/assets/img/seance-express-hotesse.webp",
-"/assets/img/seance-express-hotesse-2.webp",
-"/assets/img/seance-express-hotesse-portrait.webp"],
+      "/assets/img/seance-express-famille.webp",
+      "/assets/img/seance-express-famille-2.webp",
+      "/assets/img/seance-express-famille-3.webp",
+      "/assets/img/seance-express-hotesse.webp",
+      "/assets/img/seance-express-hotesse-2.webp",
+      "/assets/img/seance-express-hotesse-portrait.webp"
+    ],
     "description": "Profitez d’une séance photo sans rendez-vous pour tout type de photo ! En seulement 15 minutes, réalisez un portrait ou une photo de famille spontanée. Idéale pour ceux qui ne sont pas à l’aise devant l’objectif, cette séance rapide et flexible vous permet de capturer des moments précieux sur un coup de tête.",
-    "specs": ["Environ 15min", "3 photos numérique", "Retrait immédiat"]
+    "specs": ["Environ 15min", "3 photos numérique", "Retrait immédiat"],
+    "advice": [
+      "Votre photographe prendra le temps de vous placer, de vous guider et de vous mettre à l’aise devant l’objectif. Plusieurs photos seront prises afin de trouver votre meilleurs profil.",
+      "Vous choisirez la meilleure photo à retoucher (cadrage, exposition, colorimétrie)."
+    ],
+    "option": [
+      "Retouche professionnelle (Par image) : 9€00",
+      "Cession d’image à l’unité haute définition : 2€00"
+    ]
   },
   {
     "id": "2",
@@ -23,7 +32,16 @@
     "cover": "/assets/img/photo-studiolab-portrait.webp",
     "picture": ["", "", ""],
     "description": "Idéal pour des portraits professionnels ou personnels, ce forfait met en valeur votre personnalité et votre style. Ensemble, nous choisirons les éclairages et le fond pour créer l’ambiance parfaite. Notre photographe vous guidera dans les poses et vous apportera ses conseils avisés pour faire ressortir le meilleur de vous-même. ",
-    "specs": ["Environ 30min", "3 photos numérique HD", "1 personne"]
+    "specs": ["Environ 30min", "3 photos numérique HD", "1 personne"],
+    "advice": [
+      "Votre photographe prendra le temps de vous placer, de vous guider et de vous mettre à l’aise devant l’objectif. Plusieurs photos seront prises afin de trouver votre meilleurs profil.",
+      "Vous choisirez la meilleure photo à retoucher (cadrage, exposition, colorimétrie)."
+    ],
+    "option": [
+      "Retouche professionnelle (Par image) : 9€00",
+      "truc",
+      "Cession d’image à l’unité haute définition : 2€00"
+    ]
   },
   {
     "id": "3",
@@ -33,7 +51,15 @@
     "cover": "/assets/img/photo-studiolab-famille-sur-mesure.webp",
     "picture": ["", "", ""],
     "description": "Profitez d’une séance de 30 minutes pour des photos de famille plus élaborées ou une séance sur mesure selon vos besoins. Notre photographe vous guidera et vous conseillera pour capturer des moments authentiques et précieux, tout en mettant en valeur chaque membre de la famille et idées.",
-    "specs": ["Environ 30min", "5 photos numérique HD", "Plusieurs personne"]
+    "specs": ["Environ 30min", "5 photos numérique HD", "Plusieurs personne"],
+    "advice": [
+      "Votre photographe prendra le temps de vous placer, de vous guider et de vous mettre à l’aise devant l’objectif. Plusieurs photos seront prises afin de trouver votre meilleurs profil.",
+      "Vous choisirez la meilleure photo à retoucher (cadrage, exposition, colorimétrie)."
+    ],
+    "option": [
+      "Retouche professionnelle (Par image) : 9€00",
+      "Cession d’image à l’unité haute définition : 2€00"
+    ]
   },
   {
     "id": "5",
@@ -43,6 +69,14 @@
     "cover": "/assets/img/photo-studiolab-famille-sur-mesure.webp",
     "picture": ["", "", ""],
     "description": "Spécialement conçu pour la prise de photos d’objets et la reproduction de tableaux, ce forfait met en valeur chaque détail. Notre photographe s’assurera de sublimer vos objets et de reproduire fidèlement les couleurs et les matières de vos tableaux. Nous garantissons une qualité exceptionnelle et une attention minutieuse à chaque prise de vue.",
-    "specs": ["Environ 15min", "3 photos numériques", "Retrait immédiat"]
+    "specs": ["Environ 15min", "3 photos numériques", "Retrait immédiat"],
+    "advice": [
+      "Votre photographe prendra le temps de vous placer, de vous guider et de vous mettre à l’aise devant l’objectif. Plusieurs photos seront prises afin de trouver votre meilleurs profil.",
+      "Vous choisirez la meilleure photo à retoucher (cadrage, exposition, colorimétrie)."
+    ],
+    "option": [
+      "Retouche professionnelle (Par image) : 9€00",
+      "Cession d’image à l’unité haute définition : 2€00"
+    ]
   }
 ]
